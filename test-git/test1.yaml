@@ -13,3 +13,11 @@
 		- lisp
 		- fortran
 		- erlang
+- joshua:
+	name: David Joshua
+	job: Software Engineer
+	skills:
+		- C++
+		- apache kafka
+		- docker
+		- git
